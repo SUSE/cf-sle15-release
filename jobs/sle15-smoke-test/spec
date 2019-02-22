@@ -1,0 +1,10 @@
+---
+name: sle15-smoke-test
+
+templates:
+  run.erb: bin/run
+  trusted_ca.crt.erb: config/certs/trusted_ca.crt
+
+properties:
+  sle15-rootfs.trusted_certs:
+    description: "certficates to add to the rootfs trust store"

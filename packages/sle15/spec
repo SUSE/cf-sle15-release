@@ -1,0 +1,4 @@
+---
+name: sle15
+files:
+- rootfs/sle15*.tar.gz

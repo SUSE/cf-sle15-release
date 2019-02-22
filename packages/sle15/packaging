@@ -1,0 +1,4 @@
+set -e -x
+
+echo "Copying rootfs"
+cp rootfs/sle15*.tar.gz ${BOSH_INSTALL_TARGET}/sle15.tar.gz

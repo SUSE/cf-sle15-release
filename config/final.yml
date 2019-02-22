@@ -1,0 +1,6 @@
+---
+final_name: sle15
+blobstore:
+  provider: s3
+  options:
+    bucket_name: cf-sle15-release
