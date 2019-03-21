@@ -7,4 +7,6 @@ builds:
     version: "3.2"
   5a8118ed-1118-44d7-6387-324f9329f654:
     version: "4.1"
+  89d2c94a-4cc6-493b-6607-a2a93621cbcb:
+    version: "4.3"
 format-version: "2"
