@@ -1,5 +1,5 @@
 ---
-rootfs/sle15-4.16-ac28a27.tar.gz:
-  object_id: sle15-4.16-ac28a27.tar.gz
-  sha: ac28a274e4b271f770443943d20bf743212617a8
-  size: 319069481
+rootfs/sle15-4.17-14e69f6.tar.gz:
+  object_id: sle15-4.17-14e69f6.tar.gz
+  sha: 14e69f6e463ad09397ff242d86e3ea0af821dfc1
+  size: 319064725
