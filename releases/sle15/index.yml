@@ -17,6 +17,8 @@ builds:
     version: "4.15"
   89d2c94a-4cc6-493b-6607-a2a93621cbcb:
     version: "4.3"
+  8ff7f705-73f7-4ecb-6fc2-44b162fc09a9:
+    version: "4.19"
   b606e714-c913-455a-48f1-d4643ac53ae6:
     version: "4.11"
   bce919f2-ce06-4acd-6776-2a9a773ddef3:
