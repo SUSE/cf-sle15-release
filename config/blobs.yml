@@ -1,5 +1,5 @@
 ---
-rootfs/sle15-4.19-c5f1170.tar.gz:
-  object_id: sle15-4.19-c5f1170.tar.gz
-  sha: c5f1170c5b2e501aa79fa2d26f1f91015273a03b
-  size: 319074557
+rootfs/sle15-4.20-5631133.tar.gz:
+  object_id: sle15-4.20-5631133.tar.gz
+  sha: 563113317e0b3e27c17badc8376852f1bae58eb4
+  size: 319065037
