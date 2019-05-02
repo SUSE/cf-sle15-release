@@ -1,5 +1,5 @@
 ---
-rootfs/sle15-4.27-cad2334.tar.gz:
-  object_id: sle15-4.27-cad2334.tar.gz
-  sha: cad2334df95f4d741313c63b0b7faece5d59d664
-  size: 319046067
+rootfs/sle15-4.28-1162d61.tar.gz:
+  object_id: sle15-4.28-1162d61.tar.gz
+  sha: 1162d613113d47dc96e6647271c45c91890f9c6b
+  size: 319034115
