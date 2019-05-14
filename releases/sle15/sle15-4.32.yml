@@ -1,0 +1,23 @@
+name: sle15
+version: "4.32"
+commit_hash: 18d2b9b
+uncommitted_changes: false
+jobs:
+- name: sle15-rootfs-setup
+  version: c91819ad4dede15ee93403b851d2671614a5eb5d
+  fingerprint: c91819ad4dede15ee93403b851d2671614a5eb5d
+  sha1: 88f0db0dfd3d94bcf65a253dc5cc60720501a3fd
+- name: sle15-smoke-test
+  version: f5ee20325c5ab82798e69bdf96bd5f427b3e4b41
+  fingerprint: f5ee20325c5ab82798e69bdf96bd5f427b3e4b41
+  sha1: 8ae0ee52356cc61fb4ecd9ff5f8fc33a012243ae
+packages:
+- name: sle15
+  version: 68e268f3d9f53aea0659090d5ee947fa1150e345
+  fingerprint: 68e268f3d9f53aea0659090d5ee947fa1150e345
+  sha1: 6f09851ba8c1f01b49a323eba38b0e5f528dbaf0
+  dependencies: []
+license:
+  version: 1e9116364f05c9c5550ae91509d90b6c2fb11a05
+  fingerprint: 1e9116364f05c9c5550ae91509d90b6c2fb11a05
+  sha1: 2f77eb9020ac5036973deedd8e85f08280b85278
