@@ -1,5 +1,5 @@
 ---
-rootfs/sle15-10.5-e6165fb.tar.gz:
-  object_id: sle15-10.5-e6165fb.tar.gz
-  sha: e6165fb66a4eae52e39d2fdfa57400b9c57e654a
-  size: 318088820
+rootfs/sle15-10.6-2c1cf32.tar.gz:
+  object_id: sle15-10.6-2c1cf32.tar.gz
+  sha: 2c1cf32793f3dccd1fcc01046da9d5cf409c58ab
+  size: 318105640
