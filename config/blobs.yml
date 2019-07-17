@@ -1,5 +1,5 @@
 ---
-rootfs/sle15-10.8-df16a9c.tar.gz:
-  object_id: sle15-10.8-df16a9c.tar.gz
-  sha: df16a9cd5d6340996a248f86e3ba08ca97f2d0dc
-  size: 318111730
+rootfs/sle15-10.9-e4587d4.tar.gz:
+  object_id: sle15-10.9-e4587d4.tar.gz
+  sha: e4587d43b2368e84f30516542ce2292067938683
+  size: 318099110
