@@ -1,5 +1,5 @@
 ---
-rootfs/sle15-10.20-facf8d3.tar.gz:
-  object_id: sle15-10.20-facf8d3.tar.gz
-  sha: facf8d3a9a82efc3fbe818900057f6c9c8874217
-  size: 318414512
+rootfs/sle15-10.21-bc91504.tar.gz:
+  object_id: sle15-10.21-bc91504.tar.gz
+  sha: bc91504e497a0acfee70a2e5b6a8349ba39d9121
+  size: 318405167
