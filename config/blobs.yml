@@ -1,5 +1,5 @@
 ---
-rootfs/sle15-10.19-c8fae76.tar.gz:
-  object_id: sle15-10.19-c8fae76.tar.gz
-  sha: c8fae76e8d68a3ee19097ff8e952a6a36ec56c77
-  size: 318419732
+rootfs/sle15-10.20-facf8d3.tar.gz:
+  object_id: sle15-10.20-facf8d3.tar.gz
+  sha: facf8d3a9a82efc3fbe818900057f6c9c8874217
+  size: 318414512
