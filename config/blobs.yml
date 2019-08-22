@@ -1,5 +1,5 @@
 ---
-rootfs/sle15-10.27-b763b23.tar.gz:
-  object_id: sle15-10.27-b763b23.tar.gz
-  sha: b763b235bdff7fcadddddf8ab4bd954f03dcb956
-  size: 317642466
+rootfs/sle15-10.28-89c1284.tar.gz:
+  object_id: sle15-10.28-89c1284.tar.gz
+  sha: 89c1284b236cbea87554c7ed034022e4801c8f6a
+  size: 317643200
