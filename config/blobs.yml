@@ -1,5 +1,5 @@
 ---
-rootfs/sle15-10.33-deaab97.tar.gz:
-  object_id: sle15-10.33-deaab97.tar.gz
-  sha: deaab97389d3326128d929ee3b7aeb7e50af54cd
-  size: 317642756
+rootfs/sle15-10.34-afb399f.tar.gz:
+  object_id: sle15-10.34-afb399f.tar.gz
+  sha: afb399fcdf00c02289c0abab3bd0010154259b37
+  size: 317665837
