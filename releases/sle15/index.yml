@@ -5,6 +5,8 @@ builds:
     version: "4.9"
   08a314fa-2367-433f-4215-64ad2b77e237:
     version: "10.15"
+  10efea7c-6434-4d0b-60f3-2fa95e51d94d:
+    version: "10.35"
   1b38fb57-4c11-4ad3-780e-b0059571d56b:
     version: "4.27"
   207cff11-105c-49b1-5069-f0fd5f3def22:
