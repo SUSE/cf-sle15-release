@@ -121,6 +121,8 @@ builds:
     version: "4.38"
   b2a909d2-3a3b-4559-412d-036141f9ad85:
     version: "10.12"
+  b5514ee7-c01e-4663-73b1-cf395838dcdf:
+    version: "10.42"
   b606e714-c913-455a-48f1-d4643ac53ae6:
     version: "4.11"
   b67dbb2c-c71d-44fe-52b7-1aa7eec88a94:
