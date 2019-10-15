@@ -1,5 +1,5 @@
 ---
-rootfs/sle15-10.49-01997cd.tar.gz:
-  object_id: sle15-10.49-01997cd.tar.gz
-  sha: 01997cd6aa49107c213957f267c9d04c863f1f3d
-  size: 317430195
+rootfs/sle15-10.50-dfd2053.tar.gz:
+  object_id: sle15-10.50-dfd2053.tar.gz
+  sha: dfd205381666684f02ea8b2441e4e4d5a248716f
+  size: 317439384
