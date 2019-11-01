@@ -157,6 +157,8 @@ builds:
     version: "10.53"
   b89e5dde-68d7-4a5f-49b9-9b518fe2a57f:
     version: "10.40"
+  b96ce6b1-4a00-462c-401e-824b033ff6d6:
+    version: "10.61"
   ba27eee3-1b12-42ca-554e-788c1b54e2b2:
     version: "10.11"
   bae70763-2736-401e-6ed4-59b6ccda7887:
