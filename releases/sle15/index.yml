@@ -229,6 +229,8 @@ builds:
     version: "10.23"
   d2cda433-f76e-45d3-4510-ac0d57c727cf:
     version: "4.39"
+  d460deae-ddfd-433f-5776-4986acea6c4b:
+    version: "10.96"
   d4ff7ba9-c512-4eec-5967-6a89c08fd840:
     version: "4.35"
   d68a778e-0cdb-4925-6338-fb5f10d19120:
