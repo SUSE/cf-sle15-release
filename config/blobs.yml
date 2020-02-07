@@ -1,5 +1,5 @@
 ---
-rootfs/sle15-10.100-b168fad.tar.gz:
-  object_id: sle15-10.100-b168fad.tar.gz
-  sha: b168fad27fecddfb5be2aab14613d75f3d446cdb
-  size: 319020362
+rootfs/sle15-10.101-f83b0d1.tar.gz:
+  object_id: sle15-10.101-f83b0d1.tar.gz
+  sha: f83b0d1b82abfe0f9f9cea9f6500c5ecaf1389c7
+  size: 319079071
