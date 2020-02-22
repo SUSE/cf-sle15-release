@@ -223,6 +223,8 @@ builds:
     version: "4.10"
   be19230a-523d-4517-4f7f-a0a6f9cba9dc:
     version: "10.13"
+  be89b3b9-e8b2-43ba-73c8-799258e4b849:
+    version: "10.106"
   bebc1a47-1e45-46a8-653d-f969a9d727a7:
     version: "4.31"
   c44dd3c2-3a68-456c-7a61-91a77371d30e:
