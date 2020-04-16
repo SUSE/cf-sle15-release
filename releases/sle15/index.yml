@@ -29,6 +29,8 @@ builds:
     version: "4.27"
   1bbd5c60-a987-4f53-648e-5b8e33c7e53c:
     version: "10.43"
+  1ce0b867-fe38-4121-7118-050a208fc1f0:
+    version: "12.6"
   1f890135-e493-4577-7b18-3d2ff29db9b2:
     version: "10.58"
   207cff11-105c-49b1-5069-f0fd5f3def22:
