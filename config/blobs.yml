@@ -1,5 +1,5 @@
 ---
-rootfs/sle15-12.7-bebad86.tar.gz:
-  object_id: sle15-12.7-bebad86.tar.gz
-  sha: bebad866014c9510c51aa19831e892158deb2228
-  size: 318903789
+rootfs/sle15-12.8-f4a63e7.tar.gz:
+  object_id: sle15-12.8-f4a63e7.tar.gz
+  sha: f4a63e7b3be20b3ef147acbbafacedd1163f7631
+  size: 318912453
