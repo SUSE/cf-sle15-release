@@ -1,5 +1,5 @@
 ---
-rootfs/sle15-24.1-2a63b06.tar.gz:
-  object_id: sle15-24.1-2a63b06.tar.gz
-  sha: 2a63b0671e6ef673ab3d811f14ea6c76aa8cdeb7
-  size: 320999158
+rootfs/sle15-24.1-1901c19.tar.gz:
+  object_id: sle15-24.1-1901c19.tar.gz
+  sha: 1901c191c3e6f561bc3e706edda716e90511aa62
+  size: 321000809
