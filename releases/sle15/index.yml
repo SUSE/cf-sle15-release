@@ -335,6 +335,8 @@ builds:
     version: "10.22"
   df0ec689-111e-4825-5131-af9fa3395e02:
     version: "4.14"
+  e1d31c9d-945e-4814-7f3e-ffe72c54d353:
+    version: "24.9"
   e23933b8-3585-4c5c-6074-bd3513863b2d:
     version: "4.18"
   e50f37ee-89a1-48c9-4f50-b7b5b99f95a0:
