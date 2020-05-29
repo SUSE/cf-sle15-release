@@ -393,6 +393,8 @@ builds:
     version: "10.120"
   fa14cfc4-3426-4740-7ed9-eb7b65c1bddd:
     version: "12.11"
+  fa7c687a-48b4-441b-6f1a-b4207ba11a76:
+    version: "24.15"
   fab4aeff-319b-45fe-777a-8b84d133a327:
     version: "4.16"
   fe774512-f5e9-40bc-5870-91a5736d9dfb:
