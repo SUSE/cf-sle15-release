@@ -15,6 +15,8 @@ builds:
     version: "10.15"
   0a23cc4a-1bb8-4c34-4250-6f8fbb666feb:
     version: "12.1"
+  0bac3661-e794-47ac-53ef-9d46a3823933:
+    version: "24.23"
   0c1c2e95-068a-4a51-6bd0-0f375468bd01:
     version: "12.12"
   0cecd43e-771b-46d8-578c-8653e0c84eb5:
