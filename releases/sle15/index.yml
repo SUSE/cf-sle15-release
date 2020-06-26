@@ -413,6 +413,8 @@ builds:
     version: "24.15"
   fab4aeff-319b-45fe-777a-8b84d133a327:
     version: "4.16"
+  fc0930f1-2e7f-4d86-50ef-75c595107793:
+    version: "24.25"
   fe774512-f5e9-40bc-5870-91a5736d9dfb:
     version: "10.57"
 format-version: "2"
