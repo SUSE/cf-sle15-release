@@ -1,5 +1,5 @@
 ---
-rootfs/sle15-24.49-fa7bed1.tar.gz:
-  object_id: sle15-24.49-fa7bed1.tar.gz
-  sha: fa7bed11c16d6eaafc35fdd7ac4e46705c7ef939
-  size: 325661230
+rootfs/sle15-24.50-13f7700.tar.gz:
+  object_id: sle15-24.50-13f7700.tar.gz
+  sha: 13f7700aaa19f5dfe1dd4120f642f99105513bfd
+  size: 325653689
