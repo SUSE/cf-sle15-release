@@ -13,6 +13,8 @@ builds:
     version: "10.64"
   08a314fa-2367-433f-4215-64ad2b77e237:
     version: "10.15"
+  08d16e8b-bb31-4a2b-5382-aeb27f0ac36f:
+    version: "24.51"
   0a23cc4a-1bb8-4c34-4250-6f8fbb666feb:
     version: "12.1"
   0bac3661-e794-47ac-53ef-9d46a3823933:
