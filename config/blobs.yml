@@ -1,5 +1,5 @@
 ---
-rootfs/sle15-24.74-2b2a6d9.tar.gz:
-  object_id: sle15-24.74-2b2a6d9.tar.gz
-  sha: 2b2a6d9586190d47af07f27e59f6092763589c77
-  size: 325636860
+rootfs/sle15-24.75-1da35c7.tar.gz:
+  object_id: sle15-24.75-1da35c7.tar.gz
+  sha: 1da35c71dbd3ce505f8d75d29f08f95ec78594e5
+  size: 325631363
