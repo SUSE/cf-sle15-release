@@ -391,6 +391,8 @@ builds:
     version: "24.19"
   cc28b358-8278-4d51-5f44-e825851919bd:
     version: "12.8"
+  ce15f131-b553-45c6-6299-da7aba141bad:
+    version: "24.76"
   cf73fe30-c5c9-47c8-57a2-8848ffcb8ad7:
     version: "10.6"
   d168726a-d332-4a9a-7973-3ae60285c013:
