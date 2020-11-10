@@ -1,5 +1,5 @@
 ---
-rootfs/sle15-24.86-edf8248.tar.gz:
-  object_id: sle15-24.86-edf8248.tar.gz
-  sha: edf8248b8df6543655f8c7bfd9678dbc9ed06b3f
-  size: 325386021
+rootfs/sle15-24.87-25a7b94.tar.gz:
+  object_id: sle15-24.87-25a7b94.tar.gz
+  sha: 25a7b945fd089e6e1a7fb8fe9172920de8b3f0ab
+  size: 325412709
