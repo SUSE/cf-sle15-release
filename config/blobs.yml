@@ -1,5 +1,5 @@
 ---
-rootfs/sle15-26.31-cf97455.tar.gz:
-  object_id: sle15-26.31-cf97455.tar.gz
-  sha: cf9745570a6fa4b5082c5d7e159f562521f47d59
-  size: 322927441
+rootfs/sle15-26.32-097be23.tar.gz:
+  object_id: sle15-26.32-097be23.tar.gz
+  sha: 097be239098204525b435c7e202a8e4c3abc9916
+  size: 322948631
